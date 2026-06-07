@@ -2,6 +2,8 @@
 
 *This project is not AI-generated. However, the semi-smallness of the squaring map on the Borel subgroup $B$ of $\mathrm{GL}_n$ has been (confidently) conjectured by AI. The raw conversation is recorded here: [https://gemini.google.com/share/74c16ef0f9ae] (warning: lots of misleading arguments and errors). Here is another relevant conversation regarding references: [https://gemini.google.com/share/81166b7922f9]*
 
+**Remark** It would appear unnatural to stratify the squaring map $f \colon B \to B$. Perhaps it's more natural to consider the squaring map on the Grothendieck resolution $\hat{\mathrm{GL}}_n$. However the author is not familiar with the geometry of $\hat{\mathrm{GL}}_n$, it is not known to us whether there exists a nice stratification on $\hat{\mathrm{GL}}_n$ making the study of the squaring map (or $d$-th power map) easy. 
+
 Let $f_2 \colon B \to B$ be the squaring map $M \mapsto M^2$, we use the normal form of invertible lower triangular matrices to stratify $B$. Normal form exists for $n \leq 5$, due to finiteness of the number of $B$-orbits on the unipotent radical of $B$.
 
 (Normal forms on $B$ have been constructed in [https://www.numdam.org/item/?id=CM_1987__61_1_3_0]. In fact one should be able to check semi-smallness for $n \leq 7$ based on their results. In their table 2, it can be seen that each orbit of upper triangular matrices contain a matrix with 0, 1 entries. This is what we used to implement the brute-froce search.)
