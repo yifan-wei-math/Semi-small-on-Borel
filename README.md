@@ -1,6 +1,6 @@
 # Verifying semi-smallness of the squaring map on the Borel subgroup of GLn(C) for n \leq 5
 
-*This project is not AI-generated. However, the semi-smallness of the squaring map on the Borel subgroup $B$ of $\GL_n$ has been (confidently) conjectured by AI. The raw conversation is recorded here: [https://gemini.google.com/share/74c16ef0f9ae] (warning: lots of misleading arguments and errors). Here is another relevant conversation regarding references: [https://gemini.google.com/share/81166b7922f9]*
+*This project is not AI-generated. However, the semi-smallness of the squaring map on the Borel subgroup $B$ of $\mathrm{GL}_n$ has been (confidently) conjectured by AI. The raw conversation is recorded here: [https://gemini.google.com/share/74c16ef0f9ae] (warning: lots of misleading arguments and errors). Here is another relevant conversation regarding references: [https://gemini.google.com/share/81166b7922f9]*
 
 Let $f_2 \colon B \to B$ be the squaring map $M \mapsto M^2$, we use the normal form of invertible lower triangular matrices to stratify $B$. Normal form exists for $n \leq 5$, due to finiteness of the number of $B$-orbits on the unipotent radical of $B$.
 
